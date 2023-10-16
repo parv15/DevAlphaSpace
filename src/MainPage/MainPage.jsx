@@ -91,7 +91,7 @@ const Task1 = () => {
             <input
               type="range"
               min="10"
-              max="50"
+              max="30"
               defaultValue="14"
               onChange={(e) => setTextSize(e.target.value)}
               style={{width:"100%"}}
@@ -103,7 +103,7 @@ const Task1 = () => {
               type="color"
               defaultValue="black"
               onChange={(e) => setTextColor(e.target.value)}
-              style={{width:"25%",height:"25px",margin:"1rem 0",borderRadius:"5px",border:"none",outline:"none",cursor:"pointer"}}
+              style={{width:"25%",height:"25px",margin:"1rem 10.25rem",borderRadius:"5px",border:"none",outline:"none",cursor:"pointer"}}
             />
           </div>
         </div>

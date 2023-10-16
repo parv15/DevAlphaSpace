@@ -43,8 +43,8 @@
     height: 1.5rem;
   }
   .setting-subheading{
-
-    font-size: 1.5rem;
+  text-align: center;
+    font-size: 1.2rem;
     font-weight: 500;
   }
   .tshirt-image {
@@ -62,7 +62,7 @@
     position: absolute;
     justify-content: center;
     align-items: center;
-    left: 28%;
+    left: 30%;
     width: 20vw;
   }
   
